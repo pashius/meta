@@ -1,0 +1,1 @@
+{"symbol" : "NFTACO", "name" : "Test NFT Token", "decimals" : "0", "icon" : "https://www.tacobueno.com/assets/food/tacos/Taco_Crispy_Beef_990x725.jpg", "description" : "Simple FA2 NFT with metadata", "authors" : ["FL"], "interfaces" : ["TZIP-12", "TZIP-007-2021-04-17","TZIP-016-2021-04-17"]}

@@ -1,1 +1,0 @@
-{"symbol" : "ZFT", "name" : "Test NFT Token", "decimals" : "0", "icon" : "https://img.templewallet.com/insecure/fit/64/64/ce/0/plain/https://icon-library.com/images/2018/6071254_mario-coins-super-mario-blue-coin-hd-png", "description" : "Simple FA2 NFT with metadata", "authors" : ["FL"], "interfaces" : ["TZIP-12", "TZIP-007-2021-04-17","TZIP-016-2021-04-17"]}
